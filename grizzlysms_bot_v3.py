@@ -27,7 +27,7 @@ from telegram.ext import (
 
 # ─── KONFIGURASI ─────────────────────────────────────────────────────────────
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7298615259:AAElIMgrlCvGubkl-a1MYeDAh-pqoXIdgiE")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7658474148:AAFW3iVVefQ-eqz_5nfYE7V4V6EuG4rwZTQ")
 
 ALLOWED_IDS = [
     7230950406,

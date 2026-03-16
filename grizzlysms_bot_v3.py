@@ -61,7 +61,7 @@ from telegram.error import TelegramError
 # CONFIGURATION
 # ═══════════════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7658474148:AAFW3iVVefQ-eqz_5nfYE7V4V6EuG4rwZTQ")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7658474148:AAEhKWWaf7_fdP3jAoIYiUnda1bwkOrCVZs")
 
 # Admin IDs - hanya admin yang bisa approve/reject user
 ADMIN_IDS: Set[int] = {

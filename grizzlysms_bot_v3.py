@@ -27,10 +27,10 @@ from telegram.ext import (
 
 # ─── KONFIGURASI ─────────────────────────────────────────────────────────────
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8762689776:AAGmCnAH_WP6yhcH4EwpTPFxi8Ar0tW54IY")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7298615259:AAElIMgrlCvGubkl-a1MYeDAh-pqoXIdgiE")
 
 ALLOWED_IDS = [
-    7052770466,
+    7230950406,
     # tambah ID lain di sini
 ]
 
@@ -38,9 +38,9 @@ API_BASE  = "https://grizzlysms.com/stubs/handler_api.php"
 API_BASE2 = "https://api.grizzlysms.com/stubs/handler_api.php"
 
 DEFAULT_SERVICE  = "wa"
-DEFAULT_COUNTRY  = "18"
+DEFAULT_COUNTRY  = "57"
 DEFAULT_SVC_NAME = "WhatsApp"
-DEFAULT_CTR_NAME = "🇻🇳 Vietnam"
+DEFAULT_CTR_NAME = "🇲🇽 Mexico"
 
 SMS_POLL_INTERVAL = 5    # detik antar cek OTP
 SMS_MAX_WAIT      = 300  # timeout 5 menit
